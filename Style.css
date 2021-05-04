@@ -1,11 +1,18 @@
 body{
   background-color: #66e0ff;
 }
+
+header{
+  background: #F6F7FA; font color: #000099;
+}
+
 h1{
   text-align: center;
 }
+
 h2{
   text-align: center;
 }
+
 body{
   background-color: #68FAE6; float: left;
