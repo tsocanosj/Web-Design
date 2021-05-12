@@ -15,8 +15,9 @@ p.one {
 p.two {
   font-family: Times New Roman; 
   font-color: #C519E3;
+  border-width: 2px;
 }
-p.one {
+p.three {
   font-family: Arial;
   font-color: #FF311E;
 }
