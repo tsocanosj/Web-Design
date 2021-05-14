@@ -14,13 +14,13 @@ p.one {
 }
 p.two {
   font-family: Times New Roman; 
-  font-color: rgb(245.33.17);
+  font-color:#FF0000;
   border-style: solid;
   font-weight: bold;
 }
 p.three {
   font-family: arial;
-  font-color: rgb(1.16.235);
+  font-color:#0000CD;
   font-style: italic
 }
 h2{
