@@ -12,11 +12,14 @@ h1{
 p.one {
   font-family: Arial;
 }
-img.image2 {
+img.image1 {
   width ="20%" 
   height="20%" 
   alt="Anime characters" 
   align=center
+}
+img.image2 {
+  
 }
 p.two {
   font-family: Times New Roman; 
