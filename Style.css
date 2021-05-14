@@ -13,7 +13,10 @@ p.one {
   font-family: Arial;
 }
 img.image2 {
-  
+  width ="20%" 
+  height="20%" 
+  alt="Anime characters" 
+  align=center
 }
 p.two {
   font-family: Times New Roman; 
