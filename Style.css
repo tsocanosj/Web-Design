@@ -13,13 +13,15 @@ p.one {
   font-family: Arial;
 }
 img.image1 {
-  width ="20%" 
-  height="20%" 
-  alt="Anime characters" 
-  align=center
+  width=20%;
+  height=20%;
+  alt= "Anime characters";
+  align=center;
 }
 img.image2 {
-  
+  alt= "Anime characters";
+  width=20%;
+  float: right;
 }
 p.two {
   font-family: Times New Roman; 
