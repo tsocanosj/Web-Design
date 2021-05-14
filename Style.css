@@ -15,7 +15,7 @@ p.one {
 p.two {
   font-family: Times New Roman; 
   font-color: #C519E3;
-  border-width: 2px;
+  border-style: solid;
   font-weight: bold;
 }
 p.three {
