@@ -12,11 +12,10 @@
    
    <script>
            var dont = document.getElementById('doNot');
-        dont.addEventListener('click', );
+        dont.addEventListener('click', countdown);
         var countdown = function() {
-       var why = "Why did you do that? Now the world will end in " + number + " seconds"
        var number = 10
-       document.write(why)
+       println("Why did you do that? Now the world will end in " + number + " seconds");
         }
    </script>
   </body>
