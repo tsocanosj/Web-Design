@@ -11,7 +11,12 @@
    <button id="doNot">Do Not Press This Button</button>
    
    <script>
-           var navigation2 = document.getElementById('Page2');
-        navegation2.addEventListener('click', );
+           var dont = document.getElementById('doNot');
+        dont.addEventListener('click', );
+        var countdown = function() {
+       var why = "Why did you do that? Now the world will end in " + number + " seconds"
+       var number = 10
+       document.write(why)
+        }
    </script>
   </body>
