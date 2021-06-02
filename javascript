@@ -11,6 +11,14 @@
    <button id="doNot">Do Not Press This Button</button>
    
    <script>
+   function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
            var dont = document.getElementById('doNot');
         dont.addEventListener('click', countdown);
         var countdown = function() {
