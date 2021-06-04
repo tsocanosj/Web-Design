@@ -15,7 +15,7 @@
   </head>
   <body>
    <p> this is another location to go to. </p>
-   
+   <button>Ha! This button doesn't do anything!</button>
    <script>
    function myFunction() {
   var x = document.getElementById("myTopnav");
