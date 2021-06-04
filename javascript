@@ -15,7 +15,6 @@
   </head>
   <body>
    <p> this is another location to go to. </p>
-   <button id="doNot">Do Not Press This Button</button>
    
    <script>
    function myFunction() {
@@ -26,11 +25,5 @@
     x.className = "topnav";
   }
 }
-           var dont = document.getElementById('doNot');
-        dont.addEventListener("click", countdown);
-        var countdown = function() {
-       var number = 10
-       println("Why did you do that? Now the world will end in " + number + " seconds");
-        }
    </script>
   </body>
